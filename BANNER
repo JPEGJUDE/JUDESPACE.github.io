@@ -1,8 +1,7 @@
-<DOCTYPE HTML>
-
+<!DOCTYPE html>
 <html>
-body{
-<img, https://github.com/jpegjude/LogoDotcom.png</img>
-}
-
+<body>
+<head>
+  <img src="LogoDotcom.gif" alt="Alt Text" position="y:100 x:0style="width:10px length:5px">
+</body>
 </html>
